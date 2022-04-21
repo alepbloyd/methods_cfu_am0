@@ -62,8 +62,20 @@ end
 
 #4: Write a method named full name that takes in 3 strings, a first, middle, and last name, and print outs the sentence of the entire string
 
+def fullname(first,middle,last)
+  puts "My first name is #{first}, my middle name is #{middle}, and my last name is #{last}."
+end
 
+# fullname("Alexander","Lee","Boyd")
 
 # What is the return value of your method?
+
+# return value is nil
+
 # How many arguments did you pass your method?
+
+# I passed three arguments
+
 # What data type was your argument(s)?
+
+# All of the arguments were strings
