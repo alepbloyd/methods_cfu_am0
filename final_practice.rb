@@ -39,11 +39,23 @@ end
 
 #3: Write a method named square that takes in one number, and returns the square of that number
 
+def square(num)
+  return num * num
+end
 
+# puts square(2)
 
 # What is the return value of your method?
+
+# return value is num squared (4 as run in line 46)
+
 # How many arguments did you pass your method?
+
+# passed one argument
+
 # What data type was your argument(s)?
+
+# argument was an integer
 
 
 
